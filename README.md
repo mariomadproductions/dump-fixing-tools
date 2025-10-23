@@ -3,7 +3,7 @@ Tools for fixing bad disc/ROM/etc dumps
 
 ## General
 ### Automatic
- - [findcrcs](https://github.com/claunia/findcrcs)	 - I guess this is not superceded by find-ends, but I'm not sure.		
+ - [findcrcs](https://github.com/claunia/findcrcs)	 - I guess this is not superceded by find-ends, but I'm not sure. GUI/further automation tool:  [GUI for FindCRCs](http://forum.redump.org/topic/14688/gui-for-findcrcs/).
  - [crc-trim-prefix](https://github.com/hcs64/crc-trim-prefix/) -	Superceded by find-ends?
  - [find-ends](https://github.com/hcs64/find-ends)	- Rebuild the missing ends of files, given the expected complete CRC32 and another file to search for the missing parts."	
  - [bitflipper](https://github.com/conorpp/bitflipper) -	Flips bits in a file to correct minor corruption, until SHA1 is found. I've confirmed it can be sped up significantly by adding CRC32 pre-check to the code, but I don't know how to do that cleanly.		
@@ -28,7 +28,11 @@ Tools for fixing bad disc/ROM/etc dumps
 
 ### IBM PC - Windows
 #### Automatic
- - [autorun-inf-fuzzer](https://github.com/DopefishJustin/)	
+ - [autorun-inf-fuzzer](https://github.com/DopefishJustin/)
+
+### Dreamcast
+#### Automatic
+ - [TOSEC 2 Redump](http://forum.redump.org/topic/17099/dreamcast-tosec-2-redump-and-vice-versa-dumps-converter/)
 			
 ## Carts
 ### Nintendo DS
