@@ -26,9 +26,6 @@ Tools for fixing bad disc/ROM/etc dumps so that they match the hash of a proper 
  - [Official flac tools](https://xiph.org/flac/documentation_tools.html) - or [FlacFrontend](https://flacfrontend.sourceforge.net/)
  - Descramble_CDDA
 
-### DVD-Video
-##### Automatic
- - **WANTED:** Tool to fix (encrypt?) the ISOs that ImgBurn etc produce
 
 ### IBM PC
 #### Windows
@@ -39,22 +36,9 @@ Tools for fixing bad disc/ROM/etc dumps so that they match the hash of a proper 
 #### Automatic
  - [PSXt001z](https://github.com/Dremora/psxt001z)
 
-### Sony - PlayStation 3 etc
-#### Automatic
- - **TO LINK:** Encryption tools
- - **WANTED:** Packing tools
-
 ### Sega Dreamcast
 #### Automatic
- - [TOSEC 2 Redump](http://forum.redump.org/topic/17099/dreamcast-tosec-2-redump-and-vice-versa-dumps-converter/)
-
-### Nintendo GameCube
-#### Automatic
- - **TO LINK:** NKit/Nkit2 (supports other systems too?)
-
-### Nintendo - Wii
-#### Automatic
- - **TO LINK:** NKit/Nkit2
+ - [TOSEC 2 Redump](http://forum.redump.org/topic/17099/dreamcast-tosec-2-redump-and-vice-versa-dumps-converter/) - Convert from TOSEC to Redump format
 
 ### Wii U
 ### Automatic
@@ -65,20 +49,57 @@ Tools for fixing bad disc/ROM/etc dumps so that they match the hash of a proper 
 #### Automatic
  - [ucon64](https://ucon64.sourceforge.io/)
 
-### Nintendo digital
-#### Automatic
- - **WANTED:** Packing tools
- - **TO LINK:** Encryption tools
- - **TO LINK:** Metadata standardisation tools
-
 ### Nintendo DS
 #### Automatic
  - [NDecrypt](https://github.com/SabreTools/NDecrypt) - cart encryption
- - **TO LINK:** woodsec (older encryption tool)
  - [ds-underdumped-header-fixer](https://github.com/mariomadproductions/ds-underdumped-header-fixer) - Fixes DS ROM with undumpered header, using equiv. good ROM's full GameHeader output.
 
 ### Nintendo 3DS
 #### Automatic
  - [NDecrypt](https://github.com/SabreTools/NDecrypt) - cart encryption
+
+----
+
+<details>
+<summary>Tools to link and wanted tools</summary>
+
+## Discs 
+### DVD-Video
+##### Automatic
+ - **WANTED:** Tool to fix (encrypt?) the ISOs that ImgBurn etc produce
+
+### Nintendo GameCube
+#### Automatic
+ - **TO LINK:** NKit/Nkit2 (supports other systems too?)
+
+### Nintendo - Wii
+#### Automatic
+ - **TO LINK:** NKit/Nkit2
+
+### Sony - PlayStation 3 etc
+#### Automatic
+ - **TO LINK:** Encryption tools
+ - **WANTED:** Packing tools
+
+## Carts
+### Nintendo DS
+#### Automatic
+ - **TO LINK:** woodsec (older encryption tool)
+
+### Nintendo 3DS
+#### Automatic
  - **TO LINK:** Cart ROM private header removal tool
 
+## Digital
+### Nintendo
+#### Automatic
+ - **WANTED:** Packing tools
+ - **TO LINK:** Encryption tools
+ - **TO LINK:** Metadata standardisation tools
+
+### Sony - PlayStation 3 etc
+#### Automatic
+ - **TO LINK:** Encryption tools
+ - **WANTED:** Packing tools
+
+</details>
