@@ -66,10 +66,6 @@ Manual tools:
 ### Nintendo - Wii
  - **To add:** NKit/Nkit2
 
-### Sony - PlayStation 3 etc
- - **To add:** Encryption tools
- - **Wanted:** Packing tools
-
 ## Carts
 ### Nintendo Entertainment System
  - **Wanted:** Brute force iNES header to match hash?
