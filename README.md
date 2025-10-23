@@ -1,5 +1,5 @@
 # dump-fixing-tools
-Tools for fixing bad disc/ROM/etc dumps
+Tools for fixing bad disc/ROM/etc dumps. See also: wanted tools.
 
 ## General
 ### Automatic
@@ -55,6 +55,10 @@ Tools for fixing bad disc/ROM/etc dumps
 ### Nintendo - Wii
 #### Automatic
  - **TO LINK:** NKit/Nkit2
+
+### Wii U
+### Automatic
+- [WudCompress](https://gbatemp.net/threads/wii-u-image-wud-compression-tool.397901/) - decompress from unofficial WUX compression format
 
 ## Carts
 ### General/Multiple
