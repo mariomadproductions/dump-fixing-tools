@@ -24,7 +24,7 @@ Tools for fixing bad disc/ROM/etc dumps
  - [ISOBuster](https://www.isobuster.com/)			
  - [CueTools](http://cue.tools/wiki/Main_Page)			
  - [Official flac tools](https://xiph.org/flac/documentation_tools.html) - or [FlacFrontend](https://flacfrontend.sourceforge.net/)
- - PSXt001z
+ - [PSXt001z](https://github.com/Dremora/psxt001z)
  - Descramble_CDDA
  - [fix_xa_submode_and_rebuild_ecc_edc](https://discord.com/channels/631875781563252784/1067102085960704020/1428468415844057088) - by Wiggy2k		
 			
