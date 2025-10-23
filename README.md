@@ -1,5 +1,5 @@
 # dump-fixing-tools
-Tools for fixing bad disc/ROM/etc dumps so that they match the hash of a proper dump listed in e.g. Redump or No-Intro.
+Tools for fixing bad disc/ROM/etc dumps so that they match the hash of a proper dump listed in e.g. Redump or No-Intro. Contributions welcome.
 
 ## General
  - [findcrcs](https://github.com/claunia/findcrcs) - GUI/further automation tool:  [GUI for FindCRCs](http://forum.redump.org/topic/14688/gui-for-findcrcs/).
