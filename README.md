@@ -37,6 +37,9 @@ Manual tools:
 ### Sega Dreamcast
  - [TOSEC 2 Redump](http://forum.redump.org/topic/17099/dreamcast-tosec-2-redump-and-vice-versa-dumps-converter/) - Convert from TOSEC to Redump format
 
+### Microsoft - Xbox and Xbox 360
+ - [XboxKit](https://github.com/Deterous/XboxKit) - Rebuild ISO from XISO and sidecar files
+
 ### Wii U
 - [WudCompress](https://gbatemp.net/threads/wii-u-image-wud-compression-tool.397901/) - decompress from unofficial WUX compression format
 
