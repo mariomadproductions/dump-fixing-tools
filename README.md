@@ -1,5 +1,5 @@
 # dump-fixing-tools
-Tools for fixing bad disc/ROM/etc dumps.
+Tools for fixing bad disc/ROM/etc dumps so that they match the hash of a proper dump listed in e.g. Redump or No-Intro.
 
 ## General
 ### Automatic
