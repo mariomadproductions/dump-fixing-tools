@@ -31,6 +31,9 @@ Manual tools:
 ### Sony - PlayStation
  - [PSXt001z](https://github.com/Dremora/psxt001z)
 
+### Sony - PlayStation 3
+ - [LibIRD](https://github.com/Deterous/LibIRD) - Rebuild ISO from loose files and IRD file
+
 ### Sega Dreamcast
  - [TOSEC 2 Redump](http://forum.redump.org/topic/17099/dreamcast-tosec-2-redump-and-vice-versa-dumps-converter/) - Convert from TOSEC to Redump format
 
