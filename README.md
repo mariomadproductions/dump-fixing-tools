@@ -13,13 +13,11 @@ Tools for fixing bad disc/ROM/etc dumps
  - [HxD](https://mh-nexus.de/en/hxd/) - Or hex editor of your choice	
 			
 ## Discs
-### Automatic
+### General
+#### Automatic
  - [ResurrectSkeleton](https://github.com/Deterous/ResurrectSkeleton)
 
-#### IBM PC - Windows
- - [autorun-inf-fuzzer](https://github.com/DopefishJustin/)	
-
-### Manual
+#### Manual
  - CDMage			
  - [ISOBuster](https://www.isobuster.com/)			
  - [CueTools](http://cue.tools/wiki/Main_Page)			
@@ -27,6 +25,10 @@ Tools for fixing bad disc/ROM/etc dumps
  - [PSXt001z](https://github.com/Dremora/psxt001z)
  - Descramble_CDDA
  - [fix_xa_submode_and_rebuild_ecc_edc](https://discord.com/channels/631875781563252784/1067102085960704020/1428468415844057088) - by Wiggy2k		
+
+### IBM PC - Windows
+#### Automatic
+ - [autorun-inf-fuzzer](https://github.com/DopefishJustin/)	
 			
 ## Carts
 ### Nintendo DS
