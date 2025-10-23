@@ -1,5 +1,5 @@
 # dump-fixing-tools
-Tools for fixing bad disc/ROM/etc dumps. See also: wanted tools.
+Tools for fixing bad disc/ROM/etc dumps.
 
 ## General
 ### Automatic
