@@ -38,9 +38,10 @@ Tools for fixing bad disc/ROM/etc dumps
 #### Automatic
  - [PSXt001z](https://github.com/Dremora/psxt001z)
 
-### Sony - PlayStation 3
+### Sony - PlayStation 3 etc
 #### Automatic
- - **LINK:** Re-encryption tools
+ - **TO LINK:** Re-encryption tools
+ - **WANTED:** Re-packing tools
 
 ### Sega Dreamcast
 #### Automatic
@@ -53,7 +54,9 @@ Tools for fixing bad disc/ROM/etc dumps
 
 ### Nintendo digital
 #### Automatic
- - **LINK:** Re-encryption tools
+ - **WANTED:** Re-packing tools
+ - **TO LINK:** Re-encryption tools
+ - **TO LINK:** Metadata standardisation tools
 
 ### Nintendo DS
 #### Automatic
@@ -62,6 +65,6 @@ Tools for fixing bad disc/ROM/etc dumps
 
 ### Nintendo 3DS
 #### Automatic
- - **LINK:** Re-encryption tools
- - **LINK:** Cart ROM private header removal tool
+ - **TO LINK:** Re-encryption tools
+ - **TO LINK:** Cart ROM private header removal tool
 			
