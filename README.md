@@ -4,7 +4,7 @@ Tools for fixing bad disc/ROM/etc dumps so that they match the hash of a proper 
 ## General
  - [findcrcs](https://github.com/claunia/findcrcs) - GUI/further automation tool:  [GUI for FindCRCs](http://forum.redump.org/topic/14688/gui-for-findcrcs/).
  - [find-ends](https://github.com/hcs64/find-ends) - Rebuild the missing ends of files, given the expected complete CRC32 and another file to search for the missing parts.
- - [bitflipper](https://github.com/conorpp/bitflipper) - Flips bits in a file to correct minor corruption, until SHA1 is found. I've confirmed it can be sped up significantly by adding CRC32 pre-check to the code, but I don't know how to do that cleanly.		
+ - [bitflipper](https://github.com/conorpp/bitflipper) - Brute force bit flips in a file to match a hash. I've confirmed it can be sped up significantly by adding CRC32 pre-check to the code, but I don't know how to modify the code properly.		
  - [rdiff](https://github.com/librsync) - Allows people to share differences between a file, without either person needing to send a whole file - good for cautious dumpers, if a similar dump to the MIA one is non-MIA.	([tutorial + windows build zip with required dll included](https://gist.github.com/mariomadproductions/a1c4335f5a770f38a924c657e5929797))
  - [ReScene](http://rescene.wikidot.com/)
 			
@@ -25,7 +25,7 @@ Manual tools:
 
 ### IBM PC
 #### Windows
- - [autorun-inf-fuzzer](https://github.com/DopefishJustin/autorun-inf-fuzzer)
+ - [autorun-inf-fuzzer](https://github.com/DopefishJustin/autorun-inf-fuzzer) - Brute-force an AUTORUN.INF file to match a hash.
 
 ### Sony - PlayStation
  - [PSXt001z](https://github.com/Dremora/psxt001z)
@@ -41,11 +41,11 @@ Manual tools:
  - [ucon64](https://ucon64.sourceforge.io/)
 
 ### Nintendo DS
- - [NDecrypt](https://github.com/SabreTools/NDecrypt) - cart encryption
- - [ds-underdumped-header-fixer](https://github.com/mariomadproductions/ds-underdumped-header-fixer) - Fixes DS ROM with undumpered header, using equiv. good ROM's full GameHeader output.
+ - [NDecrypt](https://github.com/SabreTools/NDecrypt) - encryption
+ - [ds-underdumped-header-fixer](https://github.com/mariomadproductions/ds-underdumped-header-fixer) - Fixes undumpered header, using equivalent good ROM's full GameHeader output.
 
 ### Nintendo 3DS
- - [NDecrypt](https://github.com/SabreTools/NDecrypt) - cart encryption
+ - [NDecrypt](https://github.com/SabreTools/NDecrypt) - encryption
 
 ----
 
