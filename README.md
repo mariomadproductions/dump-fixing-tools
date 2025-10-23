@@ -33,7 +33,7 @@ Tools for fixing bad disc/ROM/etc dumps.
 ### IBM PC
 #### Windows
 ##### Automatic
- - [autorun-inf-fuzzer](https://github.com/DopefishJustin/)
+ - [autorun-inf-fuzzer](https://github.com/DopefishJustin/autorun-inf-fuzzer)
 
 ### Sony - PlayStation
 #### Automatic
