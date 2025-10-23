@@ -25,6 +25,10 @@ Tools for fixing bad disc/ROM/etc dumps
  - [Official flac tools](https://xiph.org/flac/documentation_tools.html) - or [FlacFrontend](https://flacfrontend.sourceforge.net/)
  - Descramble_CDDA
 
+### DVD-Video
+##### Automatic
+ - **WANTED:** Tool to fix (encrypt?) the ISOs that ImgBurn etc produce
+
 ### IBM PC
 #### Windows
 ##### Automatic
@@ -34,12 +38,30 @@ Tools for fixing bad disc/ROM/etc dumps
 #### Automatic
  - [PSXt001z](https://github.com/Dremora/psxt001z)
 
+### Sony - PlayStation 3
+#### Automatic
+ - **LINK:** Re-encryption tools
+
 ### Sega Dreamcast
 #### Automatic
  - [TOSEC 2 Redump](http://forum.redump.org/topic/17099/dreamcast-tosec-2-redump-and-vice-versa-dumps-converter/)
-			
+
 ## Carts
+### General/Multiple
+#### Automatic
+ - [ucon64](https://ucon64.sourceforge.io/)
+
+### Nintendo digital
+#### Automatic
+ - **LINK:** Re-encryption tools
+
 ### Nintendo DS
 #### Automatic
- - [ds-underdumped-header-fixer](https://github.com/mariomadproductions/ds-underdumped-header-fixer) - Fixes DS ROM with undumpered header, using equiv. good ROM's full GameHeader output.	
+ - **LINK:** Re-encryption tools
+ - [ds-underdumped-header-fixer](https://github.com/mariomadproductions/ds-underdumped-header-fixer) - Fixes DS ROM with undumpered header, using equiv. good ROM's full GameHeader output.
+
+### Nintendo 3DS
+#### Automatic
+ - **LINK:** Re-encryption tools
+ - **LINK:** Cart ROM private header removal tool
 			
