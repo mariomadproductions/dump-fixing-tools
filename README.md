@@ -67,6 +67,9 @@ Manual tools:
  - **Wanted:** Packing tools
 
 ## Carts
+### Nintendo Entertainment System
+ - **Wanted:** Brute force iNES header to match hash?
+
 ### Nintendo DS
  - **To add:** woodsec (older encryption tool)
 
