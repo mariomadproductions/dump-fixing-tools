@@ -22,6 +22,8 @@ Manual tools:
 ### General
   - [ResurrectSkeleton](https://github.com/Deterous/ResurrectSkeleton) - Rebuilds a CD image given a redumper skeleton and extracted files
   - [fix_xa_submode_and_rebuild_ecc_edc](https://discord.com/channels/631875781563252784/1067102085960704020/1428468415844057088)
+  - Split/merge bin files
+    - [binmerge](https://github.com/putnam/binmerge)
 
 Manual tools:
   - CDMage			
