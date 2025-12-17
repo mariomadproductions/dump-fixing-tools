@@ -5,6 +5,7 @@ Tools for fixing bad disc/ROM/etc dumps so that they match the hash of a proper 
   - [findcrcs](https://github.com/claunia/findcrcs) - GUI/further automation tool:  [GUI for FindCRCs](http://forum.redump.org/topic/14688/gui-for-findcrcs/)
   - [find-ends](https://github.com/hcs64/find-ends) - Rebuild the missing ends of files, given the expected complete CRC32 and another file to search for the missing parts
   - [crcoffset](https://github.com/hcs64/crcoffset) - Adjust padding to match a file known only by CRC and size
+  - [crc-init-trunc](https://github.com/hcs64/crc-init-trunc)
   - [bitflipper](https://github.com/conorpp/bitflipper) -  Brute force bit flips in a file to match a hash. I've confirmed this can be sped up significantly by adding CRC32 pre-check to the code, but I don't know how to modify the code properly/cleanly
     - Older tools, not sure if they have any advantage over bitflipper:
       - [bitflip.py](https://github.com/srrDB/pyrescene/blob/master/scripts/bitflip.py) from rescene
@@ -24,6 +25,7 @@ Manual tools:
   - [fix_xa_submode_and_rebuild_ecc_edc](https://discord.com/channels/631875781563252784/1067102085960704020/1428468415844057088)
   - Split/merge bin files
     - [binmerge](https://github.com/putnam/binmerge)
+  - [redumper-extract-rw](https://github.com/hcs64/redumper-extract-rw)
 
 Manual tools:
   - CDMage			
