@@ -2,7 +2,7 @@
 Tools for fixing bad disc/ROM/etc dumps so that they match the hash of a proper dump listed in e.g. Redump or No-Intro.
 
 ## General
-  - [findcrcs](https://github.com/claunia/findcrcs) - GUI/further automation tool:  [GUI for FindCRCs](http://forum.redump.org/topic/14688/gui-for-findcrcs/)
+  - [findcrcs](https://github.com/claunia/findcrcs) - GUI/further automation tool:  [FindCRCsGUI](http://forum.redump.org/topic/14688/gui-for-findcrcs/)
   - [find-ends](https://github.com/hcs64/find-ends) - Rebuild the missing ends of files, given the expected complete CRC32 and another file to search for the missing parts
   - [crcoffset](https://github.com/hcs64/crcoffset) - Adjust padding to match a file known only by CRC and size
   - [crc-init-trunc](https://github.com/hcs64/crc-init-trunc)
