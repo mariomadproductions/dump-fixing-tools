@@ -24,6 +24,7 @@ Manual tools:
   - [ResurrectSkeleton](https://github.com/Deterous/ResurrectSkeleton) - Rebuilds a CD image given a redumper skeleton and extracted files
   - [fix_xa_submode_and_rebuild_ecc_edc](https://discord.com/channels/631875781563252784/1067102085960704020/1428468415844057088)
   - Split/merge bin files
+    - [Conv2multiBin](https://github.com/saramibreak/Conv2multiBin)
     - [binmerge](https://github.com/putnam/binmerge)
   - [redumper-extract-rw](https://github.com/hcs64/redumper-extract-rw)
 
