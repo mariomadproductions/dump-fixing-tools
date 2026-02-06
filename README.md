@@ -6,8 +6,8 @@ Tools for fixing bad disc/ROM/etc dumps so that they match the hash of a proper 
   - [find-ends](https://github.com/hcs64/find-ends) - Rebuild the missing ends of files, given the expected complete CRC32 and another file to search for the missing parts
   - [crcoffset](https://github.com/hcs64/crcoffset) - Adjust padding to match a file known only by CRC and size
   - [crc-init-trunc](https://github.com/hcs64/crc-init-trunc)
-  - [crc-flip](https://github.com/hcs64/crc-flip) - Brute force byte flips in a file to match a hash.
-  - [bitflipper](https://github.com/conorpp/bitflipper) -  Brute force bit flips in a file to match a hash. I've confirmed this can be sped up significantly by adding CRC32 pre-check to the code, but I don't know how to modify the code properly/cleanly
+  - [crc-flip](https://github.com/hcs64/crc-flip) - Brute force _byte_ flips in a file to match a hash.
+  - [bitflipper](https://github.com/conorpp/bitflipper) -  Brute force _bit_ flips in a file to match a hash. I've confirmed this can be sped up significantly by adding CRC32 pre-check to the code, but I don't know how to modify the code properly/cleanly
     - Older tools, not sure if they have any advantage over bitflipper:
       - [bitflip.py](https://github.com/srrDB/pyrescene/blob/master/scripts/bitflip.py) from rescene
       - [MP3 Diags](https://mp3diags.sourceforge.net/) "Restore flipped bit in audio" function
