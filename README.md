@@ -63,6 +63,10 @@ Manual tools:
 ### Nintendo 3DS
   - [NDecrypt](https://github.com/SabreTools/NDecrypt) - Encryption
 
+## Cards
+### Nintendo - Game Boy Advance (e-Reader)
+  - [nedcenc](https://github.com/breadbored/nedclib) - Uses ECC to fix .raw files. Although not clear if it works properly.
+
 ----
 
 <details>
