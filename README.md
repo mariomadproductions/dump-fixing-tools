@@ -2,7 +2,7 @@
 Tools for fixing bad disc/ROM/etc dumps so that they match the hash of a proper dump listed in e.g. Redump or No-Intro.
 
 ## General
-  - [findcrcs](https://github.com/claunia/findcrcs) - GUI/further automation tool:  [FindCRCsGUI](http://forum.redump.org/topic/14688/gui-for-findcrcs/)
+  - [findcrcs](https://github.com/claunia/findcrcs) - GUI/further automation tool:  [FindCRCsGUI](https://forum.redump.info/viewtopic.php?p=34995)
   - [find-ends](https://github.com/hcs64/find-ends) - Rebuild the missing ends of files, given the expected complete CRC32 and another file to search for the missing parts
   - [crcoffset](https://github.com/hcs64/crcoffset) - Adjust padding to match a file known only by CRC and size
   - [crc-init-trunc](https://github.com/hcs64/crc-init-trunc)
@@ -47,7 +47,7 @@ Manual tools:
   - [LibIRD](https://github.com/Deterous/LibIRD) - Rebuild ISO from loose files and IRD file
 
 ### Sega Dreamcast
-  - [TOSEC 2 Redump](http://forum.redump.org/topic/17099/dreamcast-tosec-2-redump-and-vice-versa-dumps-converter/) - Convert from TOSEC to Redump format
+  - [TOSEC 2 Redump](https://forum.redump.info/viewtopic.php?t=12505) - Convert from TOSEC to Redump format
 
 ### Microsoft - Xbox and Xbox 360
   - [XboxKit](https://github.com/Deterous/XboxKit) - Rebuild ISO from XISO and sidecar files
